@@ -1,2 +1,5 @@
-def main_func():
-    print("hello")
+class ArraysDSA:
+
+    def soln1():
+        nums = [1,2,3,4,5]
+        print(nums)

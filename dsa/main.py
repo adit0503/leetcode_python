@@ -1,3 +1,3 @@
-from com.practice.arrays import main_func
+from com.practice.arrays import ArraysDSA
 
-main_func()
+ArraysDSA.soln1()
