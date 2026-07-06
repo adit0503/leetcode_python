@@ -1,3 +1,5 @@
-from com.practice.arrays import ArraysDSA
+from com.leetcode.LC3982 import Main as LC3982
 
-ArraysDSA.soln1()
+
+if __name__ == "__main__":
+    print(LC3982.main())
